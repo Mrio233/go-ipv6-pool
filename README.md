@@ -2,6 +2,7 @@
 
 Random ipv6 egress proxy server (support http/socks5) 
 
+The Go language implementation of [zu1k/http-proxy-ipv6-pool](https://github.com/zu1k/http-proxy-ipv6-pool)
 
 ## Usage
 
